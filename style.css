@@ -1,14 +1,21 @@
-nav{
+html body {
+    position: fixed;
+}
+.initial {
     background-color: hsl(347, 74%, 61%, 10%) ;
 }
-nav h2 {
-    font-family: 'Lato', sans-serif;
-    width: 1920px;
-    height: 350px;
-}
-h2 {
-    padding: auto;
-}
 nav {
-line-height:normal
+    font-family: 'Lato', sans-serif;
+}
+.second {
+    padding-left: 100px;
+    padding-right: 1000px;
+}
+.third {
+    padding-left: 100px;
+    padding-right: 800px;
+}
+#Shop{
+    background-color: #E55473;
+    margin-left: 100px;
 }
