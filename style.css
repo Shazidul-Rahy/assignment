@@ -1,21 +1,55 @@
-html body {
-    position: fixed;
-}
+
 .initial {
     background-color: hsl(347, 74%, 61%, 10%) ;
+    display: flex;
+
 }
-nav {
+.main1 {
     font-family: 'Lato', sans-serif;
 }
+
 .second {
     padding-left: 100px;
-    padding-right: 1000px;
+    padding-right: 60px;
+    padding-top: 130px;
+    font-weight: 700;
+
 }
 .third {
     padding-left: 100px;
-    padding-right: 800px;
+    padding-right: 100px;
+    font-weight: 100;
 }
 #Shop{
     background-color: #E55473;
-    margin-left: 100px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    padding:10px 10px 10px 10px;
+    border: 0px;
+    color: white;
+    border-radius: 5px;
+}
+.bonus {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 480px;
+    margin-right: 480px;
+}
+ul {
+    display: flex;
+}
+ .img1{ 
+    background-color: hsl(331, 67%, 39%, 10%);
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    padding-top: 80px;
+    padding-left: 40px;
+ }
+.img2 {
+    background-color: hsl(183, 94%, 32%, 15%);
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    padding-top: 80px;
+    padding-left: 40px;
+    opacity: 4px;
 }
