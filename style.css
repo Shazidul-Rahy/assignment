@@ -1,0 +1,14 @@
+nav{
+    background-color: hsl(347, 74%, 61%, 10%) ;
+}
+nav h2 {
+    font-family: 'Lato', sans-serif;
+    width: 1920px;
+    height: 350px;
+}
+h2 {
+    padding: auto;
+}
+nav {
+line-height:normal
+}
