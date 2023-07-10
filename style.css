@@ -1,4 +1,7 @@
-
+body {
+    width: 1280px;
+    height: 960px;
+}
 .initial {
     background-color: hsl(347, 74%, 61%, 10%) ;
     display: flex;
@@ -38,6 +41,8 @@
 ul {
     display: flex;
     list-style-type: none;
+    margin-left: 10px;
+    margin-right: 10px;
 }
  .img1{ 
     background-color: hsl(331, 67%, 39%, 10%);
@@ -45,8 +50,8 @@ ul {
     border-top-right-radius: 200px;
     padding-top: 80px;
     padding-left: 50px;
-    margin-bottom: 400PX;
-    margin-right: 40px;
+    margin-bottom: 2PX;
+    margin-right: 20px;
     margin-left: 0px;
  }
 .img2 {
@@ -54,10 +59,10 @@ ul {
     border-top-left-radius: 200px;
     border-top-right-radius: 200px;
     padding-top: 80px;
-    padding-left: 100px;
+    padding-left: 80px;
     margin-left: 0px;
     margin-right: 50px;
-    margin-bottom: 400PX;
+    margin-bottom: 2PX;
     margin-left: 20px;
 }
 .img3 {
@@ -66,7 +71,12 @@ ul {
     border-top-right-radius: 200px;
     padding-top: 80px;
     padding-left: 40px;
-    margin-right: 40px; 
-    margin-bottom: 400PX;
+    margin-right: 2px; 
+    margin-bottom: 2PX;
+
+}.sis {
+    list-style-type: none;
+    display: flex;
+    dis
 
 }
