@@ -121,4 +121,21 @@ width: 300px;
 }
 .allimg {
     display: flex;
+    padding-left: 100px;
+}
+.final {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 130px;
+    background-color: white;
+    position: relative;
+
+}
+.final1 {
+    position: absolute;
+    left: 500px;
+    top: 250px;
+}
+.final {
+    position: absolute;
 }
