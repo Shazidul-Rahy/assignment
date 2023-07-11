@@ -77,6 +77,39 @@ ul {
 }.sis {
     list-style-type: none;
     display: flex;
-    dis
+    justify-content: space-between;
+    align-items: center;
 
+}
+div {
+    background-color: hsl(347, 74%, 61%, 10%);  
+}
+
+nav {
+    padding-left: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.color {
+    color: #E55473;
+}
+
+.color1 {
+width: 300px;
+}
+.sign {
+    padding: 10px 10px 10px 10px;
+    background-color: #E55473;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    margin-left: 70px;
+
+}
+.deals {
+    display: flex;
+}
+.img4 {
+    background-color: hsl(347, 74%, 61%, 10%);
 }
