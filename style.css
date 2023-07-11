@@ -123,19 +123,36 @@ width: 300px;
     display: flex;
     padding-left: 100px;
 }
-.final {
 
-    background-image: url('flower asset/Rectangle\ 9.png');
-    margin: 0, auto;
+
+.alline {
+    display: flex;
+    position: center;
+    padding-left: 550px;
+    padding: 20px, 20px, 20px, 20px;
 
 }
 
+.final {
+text-align: center;
+line-height: 0%;
+padding-top: 200px;
+
+}
 
 .final2 {
     background-color: black;
     padding-top: 20px;
-    padding-bottom: 100px;
+    padding-bottom: 10px;
     text-align: center;
     padding-left: 400px;
     padding-right: 400px;
+}
+.hard {
+    background-image:url('Flower Asset/Rectangle\ 9.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px;
+    width: 1280px;
+    padding-top: 200px;
 }
